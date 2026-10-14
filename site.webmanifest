@@ -1,0 +1,15 @@
+{
+  "name": "Dulzura Infinita · Repostería y Dulcería Artesanal",
+  "short_name": "Dulzura Infinita",
+  "description": "Tortas, cupcakes, postres, chocolates y panadería artesanal. Pide por WhatsApp con entrega el mismo día.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0C0910",
+  "theme_color": "#0C0910",
+  "lang": "es",
+  "icons": [
+    { "src": "favicon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}

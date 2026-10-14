@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dulzura Infinita">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFC93C"/>
+      <stop offset=".3" stop-color="#FF9A3C"/>
+      <stop offset=".62" stop-color="#FF5C8A"/>
+      <stop offset="1" stop-color="#8E3C86"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="17" fill="#0C0910"/>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="17" fill="none" stroke="url(#g)" stroke-width="1.6" opacity=".55"/>
+  <path d="M22 32C22 24 30 24 32 32C34 40 42 40 42 32C42 24 34 24 32 32C30 40 22 40 22 32Z"
+        fill="none" stroke="url(#g)" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="32" cy="32" r="2.5" fill="url(#g)"/>
+</svg>
